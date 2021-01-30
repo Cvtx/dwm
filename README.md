@@ -7,6 +7,7 @@ This is my personal dwm build.
 
 # Applied patches
 + attachside
++ restartsig
 
 # Requirements
 
