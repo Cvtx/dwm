@@ -9,6 +9,7 @@ This is my personal dwm build.
 + attachside
 + restartsig
 + hide vacant tags
++ swallow
 
 # Requirements
 
